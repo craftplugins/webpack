@@ -41,7 +41,7 @@ Add a `webpack.php` to your config directory.
 
 ## Using Webpack
 
-```html
+```twig
 <html>
   <head>
     <link rel="stylesheet" href="{{ craft.webpack.getFilename('main.css') }}">
