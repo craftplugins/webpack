@@ -1,0 +1,14 @@
+{
+	"name": "joshuabaker/craft-webpack/webpack",
+	"description": "Craft CMS plugin to help extract hashed Webpack filenames from a manifest.json file.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Joshua Baker",
+			"homepage": "https://joshuabaker.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
