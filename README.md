@@ -1,4 +1,4 @@
-<img src="https://rawgit.com/joshuabaker/craft-webpack/master/webpack/resources/icon.svg" width="72">
+<img src="https://rawgit.com/joshuabaker/craft-webpack/master/resources/icon.svg" width="72">
 
 # Webpack plugin for Craft CMS
 
