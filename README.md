@@ -1,4 +1,8 @@
-<img src="https://rawgit.com/joshuabaker/craft-webpack/master/resources/icon.svg" width="72">
+> [!IMPORTANT]
+>
+> **This plugin is no longer maintained.**
+>
+> We recommend using the [Twigpack plugin](https://plugins.craftcms.com/twigpack) instead.
 
 # Webpack plugin for Craft CMS
 
